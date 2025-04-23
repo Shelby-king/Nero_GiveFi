@@ -13,7 +13,7 @@ I’m stoked to show you what **GiveFi** will look like! For Wave 1, I’m shari
 - **Vibe**: Clean and focused, like sending a quick payment.  
 - **Features**: Campaign photo, progress bar, and donation buttons (10¢, 50¢, custom). A “Gas-Free!” badge highlights Paymaster.  
 - **Why It Works**: Makes donating a one-tap breeze for non-crypto folks.  
-- **Visual**: See `images/donation_screen.png` (planned, or imagine a simple form).
+  
 
 ## Leaderboard & Quests
 
